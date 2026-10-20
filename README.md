@@ -1,14 +1,14 @@
 # Tanix X4 local manifest
 
-Additional repositories for building LineageOS 23.2 on the Tanix X4 (Amlogic S905X4).
+Additional repositories for building LineageOS 24.0 on the Tanix X4 (Amlogic S905X4).
 
 ## Initialize and sync
 
 Start in an empty source directory with the Android build dependencies and `repo` installed:
 
 ```sh
-repo init -u https://github.com/LineageOS/android.git -b lineage-23.2 --git-lfs
-git clone -b lineage-23.2 https://github.com/tanix-x4-los/manifest.git .repo/local_manifests
+repo init -u https://github.com/LineageOS/android.git -b lineage-24.0 --git-lfs
+git clone -b lineage-24.0 https://github.com/tanix-x4-los/manifest.git .repo/local_manifests
 repo sync -c
 ```
 

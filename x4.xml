@@ -2,23 +2,23 @@
 <manifest>
   <include name="manifests/snippets/kernel-5.15.xml" />
 
-  <project path="device/amlogic/common" name="LineageOS/android_device_amlogic_common" remote="github" revision="lineage-23.2" />
-  <project path="device/amlogic/ne-common" name="LineageOS/android_device_amlogic_ne-common" remote="github" revision="lineage-23.2" />
-  <project path="device/amlogic/sepolicy" name="tanix-x4-los/device_amlogic_sepolicy" remote="github" revision="lineage-23.2" />
-  <project path="device/tanix/x4" name="tanix-x4-los/android_device_tanix_x4" remote="github" revision="lineage-23.2" />
+  <project path="device/amlogic/common" name="LineageOS/android_device_amlogic_common" remote="github" revision="lineage-24.0" />
+  <project path="device/amlogic/ne-common" name="LineageOS/android_device_amlogic_ne-common" remote="github" revision="lineage-24.0" />
+  <project path="device/amlogic/sepolicy" name="tanix-x4-los/device_amlogic_sepolicy" remote="github" revision="lineage-24.0" />
+  <project path="device/tanix/x4" name="tanix-x4-los/android_device_tanix_x4" remote="github" revision="lineage-24.0" />
 
-  <project path="hardware/amlogic/tools/dtbtool" name="LineageOS/android_hardware_amlogic_tools_dtbtool" remote="github" revision="lineage-23.2" />
-  <project path="hardware/amlogic/tools/imagepacker" name="LineageOS/android_hardware_amlogic_tools_imagepacker" remote="github" revision="lineage-23.2" />
-  <project path="hardware/amlogic/tools/respacker" name="LineageOS/android_hardware_amlogic_tools_respacker" remote="github" revision="lineage-23.2" />
+  <project path="hardware/amlogic/tools/dtbtool" name="LineageOS/android_hardware_amlogic_tools_dtbtool" remote="github" revision="lineage-24.0" />
+  <project path="hardware/amlogic/tools/imagepacker" name="LineageOS/android_hardware_amlogic_tools_imagepacker" remote="github" revision="lineage-24.0" />
+  <project path="hardware/amlogic/tools/respacker" name="LineageOS/android_hardware_amlogic_tools_respacker" remote="github" revision="lineage-24.0" />
 
-  <project path="kernel/platform/kernel-5.15/vendor/amlogic/amlogic-drivers/w1" name="LineageOS/android_kernel_amlogic_amlogic-drivers_w1" remote="github" revision="lineage-23.2" />
-  <project path="kernel/platform/kernel-5.15/vendor/amlogic/bt-modules" name="tanix-x4-los/android_kernel_amlogic_bt-modules" remote="github" revision="lineage-23.2" />
-  <project path="kernel/platform/kernel-5.15/vendor/amlogic/common_drivers" name="tanix-x4-los/android_kernel_amlogic_common_drivers" remote="github" revision="lineage-23.2" />
-  <project path="kernel/platform/kernel-5.15/vendor/amlogic/gpu-modules" name="LineageOS/android_kernel_amlogic_gpu-modules" remote="github" revision="lineage-23.2" />
-  <project path="kernel/platform/kernel-5.15/vendor/amlogic/kernel" name="LineageOS/android_kernel_amlogic_kernel-5.15" remote="github" revision="lineage-23.2" />
-  <project path="kernel/platform/kernel-5.15/vendor/amlogic/media-modules" name="LineageOS/android_kernel_amlogic_media-modules" remote="github" revision="lineage-23.2" />
-  <project path="kernel/platform/kernel-5.15/vendor/tanix/x4-build" name="tanix-x4-los/android_kernel_amlogic_x4-build" remote="github" revision="lineage-23.2" />
+  <project path="kernel/platform/kernel-5.15/vendor/amlogic/amlogic-drivers/w1" name="LineageOS/android_kernel_amlogic_amlogic-drivers_w1" remote="github" revision="lineage-24.0" />
+  <project path="kernel/platform/kernel-5.15/vendor/amlogic/bt-modules" name="tanix-x4-los/android_kernel_amlogic_bt-modules" remote="github" revision="lineage-24.0" />
+  <project path="kernel/platform/kernel-5.15/vendor/amlogic/common_drivers" name="tanix-x4-los/android_kernel_amlogic_common_drivers" remote="github" revision="lineage-24.0" />
+  <project path="kernel/platform/kernel-5.15/vendor/amlogic/gpu-modules" name="LineageOS/android_kernel_amlogic_gpu-modules" remote="github" revision="lineage-24.0" />
+  <project path="kernel/platform/kernel-5.15/vendor/amlogic/kernel" name="LineageOS/android_kernel_amlogic_kernel-5.15" remote="github" revision="lineage-24.0" />
+  <project path="kernel/platform/kernel-5.15/vendor/amlogic/media-modules" name="LineageOS/android_kernel_amlogic_media-modules" remote="github" revision="lineage-24.0" />
+  <project path="kernel/platform/kernel-5.15/vendor/tanix/x4-build" name="tanix-x4-los/android_kernel_amlogic_x4-build" remote="github" revision="lineage-24.0" />
 
-  <project path="vendor/amlogic/ne-common" name="TheMuppets/proprietary_vendor_amlogic_ne-common" remote="github" revision="lineage-23.2" />
-  <project path="vendor/tanix/x4" name="tanix-x4-los/android_vendor_tanix_x4" remote="github" revision="lineage-23.2" />
+  <project path="vendor/amlogic/ne-common" name="TheMuppets/proprietary_vendor_amlogic_ne-common" remote="github" revision="lineage-24.0" />
+  <project path="vendor/tanix/x4" name="tanix-x4-los/android_vendor_tanix_x4" remote="github" revision="lineage-24.0" />
 </manifest>
